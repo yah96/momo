@@ -1,0 +1,33 @@
+.about-section {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.about-image-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
+
+.about-content-container {
+  flex: 1;
+}
+
+.about-title {
+  color: #FFA500;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.about-content {
+  color: #333333;
+  text-align: center;
+}
