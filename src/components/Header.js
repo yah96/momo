@@ -10,12 +10,13 @@ const Header = () => {
 
   return (
     <header className="header">
-      <div className="logo-container">
+      
+      <nav className="navigation">
+        <ul>
+        <div className="logo-container">
         <img src={smallLogo} alt="Logo" className="small-logo" />
         <div className="logo-text">MoMo's Coffee Shop</div>
       </div>
-      <nav className="navigation">
-        <ul>
           <li onClick={() => scrollToSection('home')}>Home</li>
           <li onClick={() => scrollToSection('menu')}>Menu</li>
           <li onClick={() => scrollToSection('about')}>About Us</li>
