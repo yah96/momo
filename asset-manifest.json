@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/momo/static/css/main.d7aed6b9.css",
+    "main.js": "/momo/static/js/main.2f824518.js",
+    "static/js/787.f93fada6.chunk.js": "/momo/static/js/787.f93fada6.chunk.js",
+    "static/media/logo.jpg": "/momo/static/media/logo.e5d58242ee4aabe1020d.jpg",
+    "static/media/small-logo.png": "/momo/static/media/small-logo.988aa0967b5f9af64f5b.png",
+    "static/media/coffee.png": "/momo/static/media/coffee.0f15e243860e2ce31488.png",
+    "static/media/coffee-bag.png": "/momo/static/media/coffee-bag.46c755f33d5f2f8eb0d1.png",
+    "static/media/morales.jpg": "/momo/static/media/morales.a4cf973c76fa03bbb2b7.jpg",
+    "index.html": "/momo/index.html",
+    "main.d7aed6b9.css.map": "/momo/static/css/main.d7aed6b9.css.map",
+    "main.2f824518.js.map": "/momo/static/js/main.2f824518.js.map",
+    "787.f93fada6.chunk.js.map": "/momo/static/js/787.f93fada6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7aed6b9.css",
+    "static/js/main.2f824518.js"
+  ]
+}
